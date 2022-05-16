@@ -1,0 +1,23 @@
+{
+  "name": "test/php",
+  "type": "project",
+  "description": "For testing purposes",
+  "keywords": [
+    "testing",
+    "php"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": "^8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  }
+}

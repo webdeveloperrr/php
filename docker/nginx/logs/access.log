@@ -1,0 +1,8 @@
+172.19.0.1 - - [13/May/2022:12:57:56 +0000] "GET / HTTP/1.1" 200 44 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+172.19.0.1 - - [13/May/2022:12:57:56 +0000] "GET /favicon.ico HTTP/1.1" 200 44 "http://php.test/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+172.19.0.1 - - [13/May/2022:12:59:43 +0000] "GET / HTTP/1.1" 200 239 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+172.19.0.1 - - [13/May/2022:12:59:43 +0000] "GET /favicon.ico HTTP/1.1" 200 239 "http://php.test/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+172.19.0.1 - - [13/May/2022:12:59:57 +0000] "GET / HTTP/1.1" 200 496 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+172.19.0.1 - - [13/May/2022:12:59:57 +0000] "GET /favicon.ico HTTP/1.1" 200 496 "http://php.test/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+172.19.0.1 - - [13/May/2022:13:00:03 +0000] "GET / HTTP/1.1" 200 44 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+172.19.0.1 - - [13/May/2022:13:00:04 +0000] "GET /favicon.ico HTTP/1.1" 200 44 "http://php.test/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
